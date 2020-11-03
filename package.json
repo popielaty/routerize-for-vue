@@ -1,0 +1,25 @@
+{
+  "name": "routerize-for-vue",
+  "version": "1.0.0",
+  "description": "A simple tool that forces Vue Router usage for all 'a' element clicks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popielaty/routerize-for-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "router"
+  ],
+  "author": "Michal Popiela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/popielaty/routerize-for-vue/issues"
+  },
+  "homepage": "https://github.com/popielaty/routerize-for-vue#readme",
+  "dependencies": {}
+}
