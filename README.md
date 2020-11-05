@@ -1,8 +1,8 @@
-#Routerize for Vue.js
+# Routerize for Vue.js
 
 A simple tool to process `<a>` elements clicks through Vue Router, whenever possible.
 
-##Usage
+## Usage
 
 ```javascript
 import routerize from '../../routerize'
