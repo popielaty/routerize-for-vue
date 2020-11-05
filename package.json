@@ -1,7 +1,7 @@
 {
   "name": "routerize-for-vue",
   "version": "1.0.0",
-  "description": "A simple tool that forces Vue Router usage for all 'a' element clicks.",
+  "description": "A simple tool that forces Vue Router usage for 'a' element clicks.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
