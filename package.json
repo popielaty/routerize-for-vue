@@ -1,6 +1,6 @@
 {
   "name": "routerize-for-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple tool that forces Vue Router usage for 'a' element clicks.",
   "main": "index.js",
   "scripts": {
